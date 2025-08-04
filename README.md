@@ -33,10 +33,7 @@ El diseño está pensado para ser **atractivo, moderno y fácil de navegar**.
 
 ## 🖥️ Captura de pantalla
 
-> *(Cuando quieras, sube una captura de tu web al repo y cámbiala aquí)*  
-> ```markdown
 > ![Captura del Blog](./img/captura-web.jpg)
-> ```
 
 ---
 
