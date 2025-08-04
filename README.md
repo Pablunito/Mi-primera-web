@@ -33,7 +33,7 @@ El diseño está pensado para ser **atractivo, moderno y fácil de navegar**.
 
 ## 🖥️ Captura de pantalla
 
-> ![Captura del Blog](./img/captura-web.jpg)
+> ![Captura del Blog](./img/captura.jpg)
 
 ---
 
