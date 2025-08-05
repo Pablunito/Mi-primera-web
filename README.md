@@ -49,4 +49,4 @@ El diseño está pensado para ser **atractivo, moderno y fácil de navegar**.
 ## 📦 Cómo probarlo
 
 1. Abrir este enlace de GitHub Pages:
-   https://pablunito.github.io/Mi-primera-web/
+   
